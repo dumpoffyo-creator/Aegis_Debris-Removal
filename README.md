@@ -13,7 +13,7 @@ A comprehensive object detection system built with TensorFlow/Keras supporting c
 ## Project Structure
 
 ```
-The-void/
+Aegis_Debris/
 ├── main.py              # Main entry point
 ├── requirements.txt     # Python dependencies
 ├── config.yaml         # Configuration file
