@@ -1,6 +1,6 @@
-# Lazer System
+# Santa Industries's Laser system
 
-A comprehensive Lazer system built with Microbit supporting with servo motors
+A comprehensive Laser system built with Microbit supporting with servo motors
 
 ### Prerequisites
 1. ELECFREAKS Wukong breakout board
