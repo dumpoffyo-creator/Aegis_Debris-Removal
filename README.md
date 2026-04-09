@@ -1,4 +1,4 @@
-# Santa Industries's Laser system
+# Santa Industries' Laser system
 
 A comprehensive Laser system built with Microbit supporting with servo motors
 
