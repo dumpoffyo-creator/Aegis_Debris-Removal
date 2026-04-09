@@ -8,6 +8,7 @@ A comprehensive Laser system built with Microbit supporting with servo motors
 3. Servo motor(s)
 4. A Laser pointer
 5. 2-pin connector wires
+6. Wukong Extension in makeacode
 
 ## Features
 
@@ -27,7 +28,7 @@ Aegis_Debris
 
 ### Setup
 
-1. upload the code into the microbit
+1. Upload the code into the microbit
 2. Insert the microbit into Wukong
 3. Plug in the servo motor's 3-pin connector wire on Servo-drive connection
 4. Plug in the Laser pointer's 2-pin connector wire on GVS connection
