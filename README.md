@@ -34,11 +34,9 @@ Aegis_Debris
 4. Plug in the Laser pointer's 2-pin connector wire on GVS connection
 5. Turn the Wukong On
 ### Controls
--A: Move horizontally towards Left or Increase in Vertical height
--B: Move horizontally towards Right or Decrease in Vertical height
--A+B: Mode switch between Horizontal((LED shows arrow up and down) and Vertical(LED shows arrow left and right)
-
-
+- A: Move horizontally towards Left or Increase in Vertical height
+- B: Move horizontally towards Right or Decrease in Vertical height
+- A+B: Mode switch between Horizontal((LED shows arrow up and down) and Vertical(LED shows arrow left and right)
 
 
 
