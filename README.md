@@ -22,8 +22,8 @@ Aegis_Debris
 ├── README.md           # This file
 ├── Project Pitch.zip   # Our project pitch
 ├── Technical Documentation # Documentation detailing about our product
-│   ├── Microbit-Aeroo,prot.hex  # The microbit code
-
+│   ├── Microbit-Aeroo,prot.hex  # The microbit file
+│   ├── Microbit code  # The microbit code in Python
 ```
 
 ### Setup
