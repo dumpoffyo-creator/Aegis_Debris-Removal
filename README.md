@@ -34,9 +34,9 @@ Aegis_Debris
 4. Plug in the Laser pointer's 2-pin connector wire on GVS connection
 5. Turn the Wukong On
 ### Controls
--A: Move towards left of latitude or Increase in altitude
--B: move towards Right of latitude or Decrease in altitude
--A+B: Mode switch between Altitude and Latitude
+-A: Move horizontally towards Left or Increase in Vertical height
+-B: Move horizontally towards Right or Decrease in Vertical height
+-A+B: Mode switch between Horizontal and Vertical
 
 
 
