@@ -12,7 +12,7 @@ A comprehensive Laser system built with Microbit supporting with servo motors
 
 ## Features
 
-- **Controllable laser movements**: Allows laser Moving in altitude or latitude
+- **Controllable laser movements**: Allows laser Moving in altitude or azimuth
 - **Mode switching**: Allows flexible control
 
 ## Project Structure
